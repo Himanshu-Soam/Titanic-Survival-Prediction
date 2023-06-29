@@ -1,7 +1,0 @@
-Titanic Survival Prediction
-
-1) Exploratory Data Analysis
-2) Feature Engineering
-3) Feature Selection
-4) Cross Validation
-5) Hyperparameter Tuning
